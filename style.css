@@ -4,6 +4,17 @@
   font-family: Arial, Helvetica, sans-serif;
 
 }
+/* navbar */
+.navbar{
+  background-color: rgb(182, 181, 181);
+}
+.nav-item{
+ background-color: white;
+ color: black;
+ border: 1px solid;
+ margin: 0;
+ text-align: center;
+}
 
 .bgcolor {
   clear: both;
